@@ -1,6 +1,10 @@
 /test
 /backup
+/__pycache__
+/venv
+/local
 
 client_secrets.json
+credentials.txt
 requirements.txt
 .env
